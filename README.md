@@ -1,24 +1,22 @@
 todo:
 
 MVP:
--display bikerack listings
---listing component
--listing creation
---form component, sends to database
+- listing component
+-  click on listing for details
+- listing creation
+-  form component, sends to database
 
 Extraneous:
--Google map API (needs to be called asyncrhonously)
---linking bikeracks to the map display
--user encapsulation? (lastmost)
--Visual polish
+- user encapsulation? (lastmost)
+- Visual polish
+-  inline the rack display with the map
+-  change marker to have an icon (remember you're mapping them)
 
 
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
+This project was bootstraelow you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
