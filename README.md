@@ -1,17 +1,19 @@
 todo:
 
 MVP:
-- listing component
--  click on listing for details
 - listing creation
--  form component, sends to database
+-  sends to database
 
 Extraneous:
 - user encapsulation? (lastmost)
 - Visual polish
--  inline the rack display with the map
 -  change marker to have an icon (remember you're mapping them)
+-  about this app
+-  fix text fields
+-  geolocation button
 
+misc:
+-documentation
 
 
 
